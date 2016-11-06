@@ -8,6 +8,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 Your response goes here!
 1. HTML Syntax and some useful html tags such as <figure>, <figcapture>, <strike> (not the best practice?) and <sup>. <b> and <strong> are not working in Chrome for some reason. (inherit somewhere in browser?)
-2. HTML5 is not that hard sice I have learned before.
+2. Semantic tags.
 3. To remember every tag name and its meaning.
 4. Google, practice and take notes.
