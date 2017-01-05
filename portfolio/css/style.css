@@ -1,0 +1,47 @@
+.portfolio-header {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.logo img {
+	height: 100px;
+	width: 100px;
+}
+
+.name {
+	text-align: right;
+}
+
+.portfolio-body h2 {
+	margin-left: 20px;
+}
+
+.main-img img {
+	width: 100%;
+}
+
+.sub-img img {
+	width: 100%;
+}
+
+.sub-img figcaption {
+	text-align: center;
+}
+
+.sub-img p {
+	text-align: center;
+}
+
+.portfolio-footer {
+	margin-top: 10px;
+	text-align: center;
+}
+
+@media only screen and (max-width: 991px) {
+	.logo {
+		text-align: center;
+	}
+	.name {
+		text-align: center;
+	}
+}
