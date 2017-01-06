@@ -12,23 +12,11 @@
 	text-align: right;
 }
 
-.portfolio-body h2 {
+.portfolio-body-h2 {
 	margin-left: 20px;
 }
 
-.main-img img {
-	width: 100%;
-}
-
-.sub-img img {
-	width: 100%;
-}
-
 .sub-img figcaption {
-	text-align: center;
-}
-
-.sub-img p {
 	text-align: center;
 }
 
